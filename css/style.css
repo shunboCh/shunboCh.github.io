@@ -110,6 +110,7 @@ a:hover {
 #header .avatar img {
   border-radius: 50%;
   height: 5em;
+  width: 5em;
   float: left;
   -webkit-transition: height 0.3s, -webkit-transform 1s;
   -moz-transition: height 0.3s, -moz-transform 1s;
